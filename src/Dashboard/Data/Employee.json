@@ -1,0 +1,494 @@
+{
+    "Sheet1":[
+     {
+      "Sid": 1,
+      "Name ": "MANISH PARAKH",
+      "DESIGNATION": "CHAIRMAN",
+      "DEPARTMENT": "ADMIN",
+      "Gender":"Male",
+      "District":"Durg"
+     },
+     {
+      "Sid": 2,
+      "Name ": "NILESH PARAKH",
+      "DESIGNATION": "DIRECTOR",
+      "DEPARTMENT": "ADMIN",
+      "Gender":"Male",
+      "District":"Raipur"
+     },
+     {
+      "Sid": 3,
+      "Name ": "AVISH PARAKH",
+      "DESIGNATION": "CMO",
+      "DEPARTMENT": "ADMIN",
+      "Gender":"Male",
+      "District":"Durg"
+     },
+     {
+      "Sid": 4,
+      "Name ": "NEEHA SINGH",
+      "DESIGNATION": "CSO",
+      "DEPARTMENT": "ADMIN",
+      "Gender":"Female",
+      "District":"Bilaspur"
+
+     },
+     {
+      "Sid": 5,
+      "Name ": "RINKI SINGHAL",
+      "DESIGNATION": "HR MANAGER",
+      "DEPARTMENT": "ADMIN",
+      "Gender":"Female",
+      "District":"Durg"
+      
+     },
+     {
+      "Sid": 6,
+      "Name ": "AKANSHA ANGARE",
+      "DESIGNATION": "RECEPTIONIST",
+      "DEPARTMENT": "FRONT DESK",
+      "Gender":"Female",
+      "District":"Balod"
+     },
+     {
+      "Sid": 7,
+      "Name ": "NEELAM RAJPUT",
+      "DESIGNATION": "RECEPTIONIST",
+      "DEPARTMENT": "FRONT DESK",
+      "Gender":"Female",
+      "District":"Bastar"
+     },
+     {
+      "Sid": 8,
+      "Name ": "RITU PATWA",
+      "DESIGNATION": "SR. BACK OFFICE EXECUTIVE",
+      "DEPARTMENT": "BACK OFFICE",
+      "Gender":"Female",
+      "District":"Bilaspur"
+     },
+     {
+      "Sid": 9,
+      "Name ": "YOGITA YADAV",
+      "DESIGNATION": "BACK OFFICE EXECUTIVE",
+      "DEPARTMENT": "BACK OFFICE",
+      "Gender":"Female",
+      "District":"Durg"
+     },
+     {
+      "Sid": 10,
+      "Name ": "KIRAN YADAV",
+      "DESIGNATION": "BACK OFFICE COORDINATOR",
+      "DEPARTMENT": "BACK OFFICE",
+      "Gender":"Female",
+      "District":"Balod"
+     },
+     {
+      "Sid": 11,
+      "Name ": "ANJALI RAJPUT",
+      "DESIGNATION": "SOCIAL MEDIA EXECUTIVE",
+      "DEPARTMENT": "SOCIAL MEDIA",
+      "Gender":"Female",
+      "District":"Mahasamund"
+     },
+     {
+      "Sid": 12,
+      "Name ": "NIKHIL DEWANGAN",
+      "DESIGNATION": "SOCIAL MEDIA COORDINATOR",
+      "DEPARTMENT": "SOCIAL MEDIA",
+      "Gender":"Male",
+      "District":"Raigarh"
+     },
+     {
+      "Sid": 13,
+      "Name ": "RISHABH YADAV",
+      "DESIGNATION": "SOCIAL MEDIA COORDINATOR",
+      "DEPARTMENT": "SOCIAL MEDIA",
+      "Gender":"Male",
+      "District":"Dhamtari"
+     },
+     {
+      "Sid": 14,
+      "Name ": "ARCHANA PRADHAN",
+      "DESIGNATION": "COUNCELOR",
+      "DEPARTMENT": "DEPT OF INTERIOR DESIGN",
+      "Gender":"Female",
+      "District":"Kanker"
+     },
+     {
+      "Sid": 15,
+      "Name ": "RANU YADAV",
+      "DESIGNATION": "COUNCELOR",
+      "DEPARTMENT": "TALLY EDGE & AISECT",
+      "Gender":"Female",
+      "District":"Korba"
+     },
+     {
+      "Sid": 16,
+      "Name ": "AMARJEET LUTHRA",
+      "DESIGNATION": "COUNCELOR",
+      "DEPARTMENT": "JETKING & WEB DEVLOPMENT",
+      "Gender":"Female",
+      "District":"Koriya"
+     },
+     {
+      "Sid": 17,
+      "Name ": "NEELAM SHRIWAS",
+      "DESIGNATION": "COUNCELOR",
+      "DEPARTMENT": "FASHION DESIGN & GRAPHIC ,ANIMATION",
+      "Gender":"Female",
+      "District":"Jashpur"
+     },
+     {
+      "Sid": 18,
+      "Name ": "LAXMI SAHU",
+      "DESIGNATION": "TELECALLER",
+      "DEPARTMENT": "FASHION DESIGN",
+      "Gender":"Female",
+      "District":"Dantewada"
+     },
+     {
+      "Sid": 19,
+      "Name ": "ANURADHA NAG",
+      "DESIGNATION": "TELECALLER",
+      "DEPARTMENT": "WEB DEVELOPMENT",
+      "Gender":"Female",
+      "District":"Sakti"
+     },
+     {
+      "Sid": 20,
+      "Name ": "BINA YADU",
+      "DESIGNATION": "TELECALLER",
+      "DEPARTMENT": "JETKING",
+      "Gender":"Female",
+      "District":"Sarguja"
+     },
+     {
+      "Sid": 21,
+      "Name ": "TANZIL BANU",
+      "DESIGNATION": "TELECALLER",
+      "DEPARTMENT": "DEPT OF INTERIOR DESIGN",
+      "Gender":"Female",
+      "District":"kondagaon"
+     },
+     {
+      "Sid": 22,
+      "Name ": "AANCHAL MISHRA",
+      "DESIGNATION": "TELECALLER",
+      "DEPARTMENT": "TALLY EDGE",
+      "Gender":"Female",
+      "District":"Korba"
+     },
+     {
+      "Sid": 23,
+      "Name ": "TULSI NIRMALKAR",
+      "DESIGNATION": "TELECALLER",
+      "DEPARTMENT": "GRAPHIC, ANIMATION",
+      "Gender":"Female",
+      "District":"Korba"
+     },
+     {
+      "Sid": 24,
+      "Name ": "RAHUL SHARMA",
+      "DESIGNATION": "SALES OFFICER",
+      "DEPARTMENT": "JETKING",
+      "Gender":"Male" ,
+      "District":"Khairagarh"
+     },
+     {
+      "Sid": 25,
+      "Name ": "HARSH DEWANGAN",
+      "DESIGNATION": "MARKETING EXECUTIVE",
+      "DEPARTMENT": "TALLY EDGE, AISECT",
+      "Gender":"Male" ,
+      "District":"Baloda-Bazar"
+     },
+     {
+      "Sid": 26,
+      "Name ": "ABHISHEK MAJUMDAR",
+      "DESIGNATION": "TRAINING PLACEMENT OFFICER",
+      "DEPARTMENT": "PLACEMENT ",
+      "Gender":"Male" ,
+      "District":"Manpur"
+     },
+     {
+      "Sid": 27,
+      "Name ": "HARSH RAO",
+      "DESIGNATION": "PERSONALTY DEVELOPMENT TRAINER",
+      "DEPARTMENT": "PLACEMENT ",
+      "Gender":"Male",
+      "District":"Koriya"
+      
+     },
+     {
+      "Sid": 28,
+      "Name ": "JITESH SAHU",
+      "DESIGNATION": "ADMIN COORDINATOR",
+      "DEPARTMENT": "ADMIN",
+      "Gender":"Male" ,
+      "District":"Sukma"
+     },
+     {
+      "Sid": 29,
+      "Name ": "SAURABH SAHU",
+      "DESIGNATION": "SR.ACCOUNTANT",
+      "DEPARTMENT": "ACCOUNTS",
+      "Gender":"Male" ,
+      "District":"Surajpur"
+     },
+     {
+      "Sid": 30,
+      "Name ": "GAJENDRA KAUSHIK",
+      "DESIGNATION": "CHIEF ACCOUNTANT",
+      "DEPARTMENT": "ACCOUNTS",
+      "Gender":"Male" ,
+      "District":"Mungeli"
+      
+     },
+     {
+      "Sid": 31,
+      "Name ": "GULAFSHA NAZ",
+      "DESIGNATION": "ACCOUUNTS EXECUTIVE",
+      "DEPARTMENT": "ACCOUNTS",
+      "Gender":"Male" ,
+      "District":"Balrampur"
+     },
+     {
+      "Sid": 32,
+      "Name ": "SAGAR PARIHAR",
+      "DESIGNATION": "JR ACCOUNTS EXECUTIVE",
+      "DEPARTMENT": "ACCOUNTS",
+      "Gender":"Male" ,
+      "District":"Bharatpur"
+     },
+     
+     {
+      "Sid": 33,
+      "Name ": "GAUTAM YADAV",
+      "DESIGNATION": "JR ACCOUNTS EXECUTIVE",
+      "DEPARTMENT": "ACCOUNTS",
+      "Gender":"Male" ,
+      "District":"Jahangir-champa"
+     },
+     {
+      "Sid": 34,
+      "Name ": "AJAY LALWANI",
+      "DESIGNATION": "CHIEF FINANCIAL OFFICER",
+      "DEPARTMENT": "ACCOUNTS",
+      "Gender":"Male" ,
+      "District":"Bilaigarh"
+     },
+     {
+      "Sid": 35,
+      "Name ": "MADHUKANT SONI",
+      "DEPARTMENT": "ACCOUNTS",
+      "Gender":"Female" ,
+      "District":"Rajnandgaon"
+     },
+     {
+      "Sid": 36,
+      "Name ": "RAJENDRA SAHU",
+      "DEPARTMENT": "COMMERCIAL",
+      "Gender":"Male" ,
+      "District":"Goraila"
+     },
+     {
+      "Sid": 37,
+      "Name ": "PINTU VAISHNAV",
+      "DEPARTMENT": "COMMERCIAL",
+      "Gender":"Male",
+      "District":"Jahangir-champa" 
+     },
+     {
+      "Sid": 38,
+      "Name ": "MANNU NISHAD",
+      "DEPARTMENT": "COMMERCIAL",
+      "Gender":"Male",
+      "District":"Dantewada" 
+     },
+     {
+      "Sid": 39,
+      "Name ": "KRATIKA SETHIYA",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "DEPT OF INTERIOR DESIGN",
+      "Gender":"Male" ,
+      "District":"Koriya"
+     },
+     {
+      "Sid": 40,
+      "Name ": "SAYAL SETHIYA",
+      "DESIGNATION": "SR. FACULTTY",
+      "DEPARTMENT": "DEPT OF INTERIOR DESIGN",
+      "Gender":"Male" ,
+      "District":"Balod"
+     },
+     {
+      "Sid": 41,
+      "Name ": "NAINA AGRAWAL",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "DEPT OF INTERIOR DESIGN",
+      "Gender":"Female" ,
+      "District":"Durg"
+     },
+     {
+      "Sid": 42,
+      "Name ": "NIKITA N JAISWAL",
+      "DESIGNATION": "SR. FACULTY",
+      "DEPARTMENT": "DEPT OF FASHION DESIGN",
+      "Gender":"Female",
+      "District":"kondagaon"
+     },
+     {
+      "Sid": 43,
+      "Name ": "NAILA KHAN",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "DEPT OF FASHION DESIGN",
+      "Gender":"Female" ,
+      "District":"Balrampur"
+     },
+     {
+      "Sid": 44,
+      "Name ": "SONALI MORIWAL",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "DEPT OF FASHION DESIGN",
+      "Gender":"Female",
+      "District":"Mahasamund" 
+     },
+     {
+      "Sid": 45,
+      "Name ": "MANISH PANDEY",
+      "DESIGNATION": "SR. FACULTY",
+      "DEPARTMENT": "TALLY EDGE",
+      "Gender":"Male" ,
+      "District":"Bastar"
+     },
+     {
+      "Sid": 46,
+      "Name ": "JAYA  SONKAR",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "TALLY EDGE",
+      "Gender":"Female",
+      "District":"Manpur" 
+     },
+     {
+      "Sid": 47,
+      "Name ": "KALPANA MISHRA",
+      "DESIGNATION": "SR. FACULTY",
+      "DEPARTMENT": "AISECT",
+      "Gender":"Female" ,
+      "District":"Kanker"
+     },
+     {
+      "Sid": 48,
+      "Name ": "REENA PRAJAPATI",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "AISECT",
+      "Gender":"Female",
+      "District":"Raipur" 
+     },
+     {
+      "Sid": 49,
+      "Name ": "JAYANTO SARTHI",
+      "DESIGNATION": "SR. FACULTY",
+      "DEPARTMENT": "JETKING",
+      "Gender":"Male" ,
+      "District":"kondagaon"
+     },
+     {
+      "Sid": 50,
+      "Name ": "VIVEK SINGH",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "JETKING",
+      "Gender":"Male",
+      "District":"Korba" 
+     },
+     {
+      "Sid": 51,
+      "Name ": "PIYUSH DUBEY",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "DEPT OF GRAPHIC & ANIMATION",
+      "Gender":"Male",
+      "District":"Sukma" 
+     },
+     {
+      "Sid": 52,
+      "Name ": "RAVI SHRIVASTAV",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "DEPT OF GRAPHIC & ANIMATION",
+      "Gender":"Male" ,
+      "District":"Durg"
+     },
+     {
+      "Sid": 53,
+      "Name ": "HEMANT SAHU",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "DEPT OF GRAPHIC & ANIMATION",
+      "Gender":"Male",
+      "District":"Balod" 
+     },
+     {
+      "Sid": 54,
+      "Name ": "P.SURESH",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "DEPT OF WEB DEVELOPMENT",
+      "Gender":"Male" ,
+      "District":"Sukma"
+     },
+     {
+      "Sid": 55,
+      "Name ": "SUMIT SINGH",
+      "DESIGNATION": "FACULTY",
+      "DEPARTMENT": "DEPT OF WEB DEVELOPMENT",
+      "Gender":"Male" ,
+      "District":"Goraila"
+     },
+     {
+      "Sid": 56,
+      "Name ": "ASHA NARWARE",
+      "DEPARTMENT": "HOUSE KEEPING",
+      "Gender":"Female",
+      "District":"Baloda-Bazar" 
+     },
+     {
+      "Sid": 57,
+      "Name ": "ASHA SONI",
+      "DEPARTMENT": "HOUSE KEEPING",
+      "Gender":"Female",
+      "District":"Khairagarh" 
+     },
+     {
+      "Sid": 58,
+      "Name ": "INDRANI SONI",
+      "DEPARTMENT": "HOUSE KEEPING",
+      "Gender":"Female",
+      "District":"Sakti" 
+     },
+     {
+      "Sid": 59,
+      "Name ": "RADHIKA  RAUT",
+      "DEPARTMENT": "HOUSE KEEPING",
+      "Gender":"Female",
+      "District":"Dongargarh" 
+     },
+     {
+      "Sid": 60,
+      "Name ": "SANGITA CHANDRAKAR",
+      "DEPARTMENT": "HOUSE KEEPING",
+      "Gender":"Female" ,
+      "District":"Balrampur"
+     },
+     {
+      "Sid": 61,
+      "Name ": "UMA SAHU",
+      "DEPARTMENT": "HOUSE KEEPING",
+      "Gender":"Female",
+      "District":"Jashpur" 
+     },
+     {
+      "Sid": 62,
+      "Name ": "VARSHA TANDI",
+      "DEPARTMENT": "HOUSE KEEPING",
+      "Gender":"Female",
+      "District":"Mahasamund" 
+     }
+    ]
+    }
