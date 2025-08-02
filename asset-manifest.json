@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ProjectDashboard/static/css/main.a2e8927e.css",
+    "main.js": "/ProjectDashboard/static/js/main.6d6e7d44.js",
+    "static/js/239.cafd29b4.chunk.js": "/ProjectDashboard/static/js/239.cafd29b4.chunk.js",
+    "static/js/213.ba38100e.chunk.js": "/ProjectDashboard/static/js/213.ba38100e.chunk.js",
+    "static/js/732.2f91b876.chunk.js": "/ProjectDashboard/static/js/732.2f91b876.chunk.js",
+    "static/js/453.51b20bab.chunk.js": "/ProjectDashboard/static/js/453.51b20bab.chunk.js",
+    "static/media/logo.svg": "/ProjectDashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ProjectDashboard/index.html",
+    "main.a2e8927e.css.map": "/ProjectDashboard/static/css/main.a2e8927e.css.map",
+    "main.6d6e7d44.js.map": "/ProjectDashboard/static/js/main.6d6e7d44.js.map",
+    "239.cafd29b4.chunk.js.map": "/ProjectDashboard/static/js/239.cafd29b4.chunk.js.map",
+    "213.ba38100e.chunk.js.map": "/ProjectDashboard/static/js/213.ba38100e.chunk.js.map",
+    "732.2f91b876.chunk.js.map": "/ProjectDashboard/static/js/732.2f91b876.chunk.js.map",
+    "453.51b20bab.chunk.js.map": "/ProjectDashboard/static/js/453.51b20bab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e8927e.css",
+    "static/js/main.6d6e7d44.js"
+  ]
+}
